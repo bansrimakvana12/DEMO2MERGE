@@ -2,4 +2,5 @@
 for demo project 2 crete local system
 
 # example 
-for project 2
+for project 2 
+create bansi makvana 
